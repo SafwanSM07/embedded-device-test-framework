@@ -1,4 +1,5 @@
 # Embedded Device Automated Test Framework
+[![Automated Tests](https://github.com/SafwanSM07/embedded-device-test-framework/actions/workflows/tests.yml/badge.svg)](https://github.com/SafwanSM07/embedded-device-test-framework/actions/workflows/tests.yml)
 
 A Python-based automated testing framework for simulated embedded
 devices. The project demonstrates functional, boundary, negative,
